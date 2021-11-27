@@ -1,3 +1,13 @@
+# 写在前面
+
+> 在编辑与退出之前记得**同步**
+>
+> WorkFlow should be stricted as below:
+>
+> - **Snyc->Edit->Snyc->Quit**
+
+***
+
 # WindowsOS
 
 ## MarkdownFiles
