@@ -2,9 +2,9 @@
 
 ## MarkdownFiles
 
->  使用Typora本地编辑
+>  使用***Typora***本地编辑
 >
->  ->GitHubDesk客户端确认同步
+>  ->***GitHubDesk***客户端确认同步
 >
 >  > 进入项目界面左下角Commit
 >  >
@@ -12,7 +12,10 @@
 
 ## Code
 
-### Visual Studio
+### *Visual Studio*
 
 > 使用内置Git功能
 
+### *VScode*
+
+> 内置Git策略
