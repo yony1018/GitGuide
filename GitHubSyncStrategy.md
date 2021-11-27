@@ -20,7 +20,7 @@
 >  >
 >  > ->上方菜单Fetch Origin
 
-## Code
+## SourceCode
 
 ### *Visual Studio*
 
@@ -29,3 +29,15 @@
 ### *VScode*
 
 > 内置Git策略
+
+## 混合项目
+
+> 可以说很多学习型的项目是混合的
+>
+> - Notes
+> - SourceCode
+>
+> 一方面使用GitHubDesktop管理两个编辑器(Typora&IDE)是麻烦的
+>
+> 另一方面直接使用IDE管理项目不够轻量化
+
