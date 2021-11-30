@@ -31,6 +31,8 @@
 > #查看proxy
 > git config --global http.proxy http://127.0.0.1:1080	
 > #这里1080是本地代理端口
+> git config --global --unset http.proxy
+> #取消代理
 > ```
 >
 > 
