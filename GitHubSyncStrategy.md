@@ -77,3 +77,12 @@
 >  >
 >  > 后期更新编辑Markdown文档时再使用GitHubDesktop同步
 
+## Issues
+
+### GitHub Desktop
+
+> 很怪，大早上一开电脑就是报错：
+>
+> [Failed to execute getStatus: ENOENT' · Issue #10921](https://github.com/desktop/desktop/issues/10921)
+>
+> 不用删除已经克隆的库，只需重装，它自动就会找回已经克隆的库路径
