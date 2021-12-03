@@ -85,4 +85,5 @@
 >
 > [Failed to execute getStatus: ENOENT' · Issue #10921](https://github.com/desktop/desktop/issues/10921)
 >
-> 不用删除已经克隆的库，只需重装，它自动就会找回已经克隆的库路径
+> 不用删除已经克隆的库，只需重装，它自动就会 找回已经克隆的库路径
+
